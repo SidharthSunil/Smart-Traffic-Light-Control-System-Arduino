@@ -6,6 +6,7 @@ The code is light, simple and fast. It does not use any Machine language algorit
 
 You could use 2 sensors in each lane if you want to find length of the vehicle too. But that is optional for now.
 
-Refer code traffic1lane.ino for the main purpose. Other code snippets are for extended features. You could add those if you need.
+Refer code 'main code' > traffic1lane.ino for the main purpose. Other code snippets are for extended features. You could add those if you need.
 
-The extended features are still in beta mode
+<B> The extended features are still in beta mode.
+All the stable codes are in the folder 'main code' </B>
